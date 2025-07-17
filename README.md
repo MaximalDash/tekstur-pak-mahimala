@@ -1,7 +1,9 @@
 # tekstur-pak-mahimala
 a dumb ass stupid gd resource pack with a ton of dumb ass stupid stuff
 
-I created this texture pack purely because i wanted my gd to look as goofy as possible, lots of stuff is written on russian language (because it's my native language and it's easier for me to come up with some silly phrases) and also it contains swear words and slurs, just for the sake of fun, so deal with it. Anyways, thanks for downloading my texture pack, enjoy :)
+I created this texture pack because i wanted my gd to look as goofy as possible, lots of stuff is written on russian language (because it's my native language and it's easier for me to come up with some silly phrases) and also it contains swear words, so you have to deal with it. Anyways, thanks for downloading my texture pack, enjoy :)
+
+Also you may want to download the happy textures mod for this tp to work correctly, or else dialogues will be broken, there won't be any custom bgs at vaults and no use for the more games button, which is very important...
 
 =========================================================
 
@@ -19,31 +21,29 @@ Also, this texture pack supports these mods:
 - Creative Mode
 - Death Tracker
 - GDShare
+- GDUtils
 - Geometrize2D
 - Globed
+- GodlikeFaces
 - Improved Link Controls
 - Improved Song Browser
 - Improved Transform Controls
 - Jukebox
-- Level Showcases
 - Level Thumbnails
 - Mega Hack Installer
 - Minecraftify
+- More Icons
 - Named Editor Groups
 - NinKaz's Editor Utils
 - Reference Image
 - Texture Loader
 - Texture Workshop
-
-
-Yea, as you can see, this texture pack has A TON of work, put into it, so i will be very happy if you donate me on DonationAlerts for my sufferings 🔥
-
-https://www.donationalerts.com/r/maximaldash
+- To-Do List
 
 =========================================================
 
-Menu song is from Terraria's "Calamity Mod Extra Music" - Cold Front
-https://www.youtube.com/watch?v=llTydG62aAA
+Menu song is from Goat Simulator OST - Goat Chill
+https://youtu.be/YLpL9TkYZ0I?t=331
 
 =========================================================
 
@@ -51,8 +51,10 @@ Huge shoutout for these guys, they helped me cooking this banger:
 
 - Arshadow
 - FareniaSan
+- FawksGD
 - Gregr
 - ITEGOD
+- ViperArcturus
 - Winchester
 
 =========================================================
